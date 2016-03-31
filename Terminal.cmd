@@ -1,0 +1,1 @@
+%~dp0\Cmder\Cmder.exe
